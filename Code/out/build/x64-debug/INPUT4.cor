@@ -1,0 +1,11 @@
+// Corrosion simple number comparison program
+_fn _main(){
+	_print("Enter two numbers (a and b) to compare:");
+	_input(a);
+	_input(b);
+	_if (a < b) {
+		_print("First number is smaller!");
+	} _else {
+		_print("Second number is smaller!");
+	}
+}

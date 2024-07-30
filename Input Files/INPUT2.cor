@@ -1,0 +1,5 @@
+// Corrosion Hello World file
+_fn _main () {
+	_print("Hello, World!");
+	// Comment in main
+}

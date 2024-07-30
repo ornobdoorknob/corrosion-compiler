@@ -1,0 +1,10 @@
+// Corrosion square area calculator program
+_fn _main(){
+	_let area: _i32 = 0;
+	_print("Enter breadth:");
+	_input(a);
+	_print("Enter width:");
+	_input(b);
+	area = a * b;
+	_print(area);
+}
